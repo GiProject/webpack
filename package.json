@@ -6,7 +6,8 @@
   "scripts": {
     "serve": "webpack serve --mode production",
     "build": "webpack --mode production",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "live-server": "live-server dist"
   },
   "repository": {
     "type": "git",
